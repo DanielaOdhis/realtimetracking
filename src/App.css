@@ -1,0 +1,25 @@
+.bus-tracking-container {
+  padding: 20px;
+  text-align: center;
+}
+
+.bus-tracking-header {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.loading-message,
+.no-data-message {
+  text-align: center;
+  font-size: 18px;
+  color: #555;
+}
+
+.google-map-container {
+  height: 600px;
+}
+
+.marker-info {
+  font-size: 6px;
+  color: #333;
+}
